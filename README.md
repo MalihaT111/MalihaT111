@@ -13,5 +13,7 @@ const mali = {
         Linear, Figma],
     cloud: [Spring, Gradle, Protobufs, Elasticsearch, PostgreSQL, pgAdmin, pgsync,
         Microsoft Azure, DigitalOcean, AWS],
+    courses: [Data Structures & Algorithms, Discrete Math, Linear Algebra, Computer Architecture,
+        Artificial Intelligence, Computer Theory, Web Development] 
 }
 ```
