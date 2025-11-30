@@ -19,7 +19,7 @@ As a **Break Through Tech AI Fellow**, I’ve grown through mentorship, experime
 Right now, I’m building out my **ML foundation**, exploring **deeper AI applications**, and working toward roles where I can contribute, learn, and collaborate with talented engineers.  
 If you know of opportunities or projects, **I’d love to hear from you.**
 
-Outside of technical work, I care about wellness, routines, games, and art. 
+Outside of technical work, I care about wellness, routines, games, art, and my birds. 
 
 Connect with me! 
 - **Email:** malihatasnim404@gmail.com  
