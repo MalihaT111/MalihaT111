@@ -48,6 +48,7 @@ I built an end-to-end ranking pipeline that combines semantic embeddings, machin
 
 <p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30" /> </p>
 
+
 🔗 [Check it out here!](https://github.com/MalihaT111/ai-recruitment)
 
 
