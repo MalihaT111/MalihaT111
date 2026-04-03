@@ -39,6 +39,7 @@ A real-world civic tech platform designed for NYC: users report damaged streetli
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="28" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" />
 </p>
+
 🔗 [Check it out here!](https://github.com/MalihaT111/street-light-base)
 
 ### **AI-Assisted Recruitment System**
