@@ -40,7 +40,7 @@ A gamified civic engagement app: rate and upload pictures of street light bases 
 </p>
 🔗 [Check it out here!](https://github.com/MalihaT111/street-light-base)
 
-### AI-Assisted Recruitment System
+### **AI-Assisted Recruitment System**
 
 A hybrid AI platform designed to make resume screening more fair, accurate, and efficient.
 I built an end-to-end ranking pipeline that combines semantic embeddings, machine-learning models, and feature-based scoring to match candidates to job descriptions with improved relevance.
