@@ -145,23 +145,5 @@ I developed a system that extracts puzzle grids from images, segments individual
 
 
 
-<table align="center">
-  <tr>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=MalihaT111&show_icons=true&hide=contribs&hide_rank=true&bg_color=EDE9FF&title_color=5F3DC4&text_color=4B3E7A&icon_color=8E6CE6&border_color=DBCDFE"
-        width="320"
-      />
-    </td>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalihaT111&layout=compact&bg_color=EDE9FF&title_color=5F3DC4&text_color=4B3E7A&border_color=DBCDFE&langs_count=8"
-        width="270"
-      />
-    </td>
-  </tr>
-</table>
-
-
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MalihaT111&bg_color=00000000&color=8e7cc3&line=b9a6ff&point=dcd0ff&area_color=ccb5ff&area=true&hide_border=true" />
