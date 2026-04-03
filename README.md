@@ -31,7 +31,7 @@ Connect with me!
 
 
 <h1 align="center">✦ what i'm working on ✦ </h1>
-### Street Systems 
+### **Street Systems**
 A gamified civic engagement app: rate and upload pictures of street light bases to help the NYC Department of Transportation better prioritize repairs. Complete with a built in data analytics dashboard. 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="28" />
