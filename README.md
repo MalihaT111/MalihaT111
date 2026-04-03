@@ -31,8 +31,9 @@ Connect with me!
 
 
 <h1 align="center">✦ what i'm working on ✦ </h1>
+
 ### **Street Systems**
-A gamified civic engagement app: rate and upload pictures of street light bases to help the NYC Department of Transportation better prioritize repairs. Complete with a built in data analytics dashboard. 
+A real-world civic tech platform designed for NYC: users report damaged streetlight bases with photos, ratings, and location data, helping the Department of Transportation prioritize repairs. Includes gamification (leaderboards, achievements) and a full analytics dashboard for city-wide insights.
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="28" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="28" />
